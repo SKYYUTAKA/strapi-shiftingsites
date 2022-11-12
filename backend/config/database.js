@@ -1,4 +1,4 @@
-// path: ./strapi-shiftingsites/config/database.js
+// path: ./my-project/config/database.js
 
 module.exports = ({ env }) => ({
   connection: {
